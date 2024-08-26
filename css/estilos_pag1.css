@@ -1,0 +1,31 @@
+
+
+div.contenedor {
+    background-color: #B4B4B8;
+    font-family: Arial, sans-serif;
+}
+.formulario{background-color: #C7C8CC ;border-color:#C7C8CC }
+
+header h1,
+header h2 {
+    font-family: 'Georgia', serif; /* Fuente de los encabezados */
+    color: #333333; /* Color oscuro para el texto de los encabezados */
+}
+
+label{font-family: "Homer Simpson UI"}
+
+.botones .btn-primary{background-color: #0dcaf0; border-color: #0dcaf0}
+.botones .btn-secondary{background-color: #212529 ;color: white}
+
+
+footer{background-color: #212529; color: white}
+
+
+
+
+
+
+
+
+
+
